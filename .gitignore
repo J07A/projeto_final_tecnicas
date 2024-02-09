@@ -1,0 +1,5 @@
+# Arquivos temporários gerados por IDEs
+.idea/
+
+# Pasta da virtual environment
+venv/
